@@ -1,114 +1,94 @@
-<h1 align="center">Hi 👋, I'm Jagadish</h1>
-<h3 align="center">🚀 Aspiring Data Engineer | Building Real Systems</h3>
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">HELLO 👋 NICE TO MEET YOU</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Future+Data+Engineer;Building+ETL+Pipelines;Working+on+Real+Projects;Consistency+%3D+Success&center=true&width=600&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagadish-4125&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;Future+Data+Engineer;Consistency+Builds+Power&center=true&width=600&height=45">
 </p>
 
 ---
+
+<!-- ===================== NAME + ANIME ===================== -->
+
+<h2 align="center">JAGADISH MUDDANGULA</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120">
+</p>
+
+<p align="center">
+  <b>Data Engineer Candidate | Emerging Data Enthusiast | Automation Explorer</b><br>
+  <b>B.Tech CSE (AI/ML) | Learning by Consistency</b>
+</p>
+
+---
+
+<!-- ===================== QUOTE ===================== -->
+
+<p align="center">⭐ <i>"No shortcuts. Only consistency builds real power."</i> ⭐</p>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## 🌱 About Me
 
-- 🎓 B.Tech CSE Student  
-- 📊 Focused on **Data Engineering & Real-World Systems**  
-- ⚡ Building projects step-by-step (no shortcuts)  
-- 🧠 Learning: ETL Pipelines, Big Data, Cloud  
-- 🎯 Goal: Become a **Data Engineer by 2027**
+- I am a B.Tech CSE (AI/ML) student focused on real-world skills  
+- Passionate about Data Engineering, Automation & AI  
+- Building ETL pipelines and data systems step-by-step  
+- Learning by doing, not just watching tutorials  
+- Exploring Big Data tools like PySpark & Hadoop  
+- Creating projects that solve practical problems  
+- Staying consistent every single day  
+
+📫 If you want to collaborate or work together:  
+👉 **Mail:** jagadeeshm572@gmail.com  
+👉 **LinkedIn:** https://www.linkedin.com/in/jagadish-muddangula-0b38532bb  
 
 ---
+
+<!-- ===================== SKILLS ===================== -->
 
 ## 🛠️ Skills
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![C](https://img.shields.io/badge/C-grey)
-
-### 📚 Libraries
-![Pandas](https://img.shields.io/badge/Pandas-blue)
-![NumPy](https://img.shields.io/badge/NumPy-lightgrey)
-
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue)
-
-### ⚙️ Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Pipelines-green)
-![Data Processing](https://img.shields.io/badge/Data-Processing-yellow)
-![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-orange)
-![EDA](https://img.shields.io/badge/EDA-blue)
-
-### 📊 Big Data
-![Hadoop](https://img.shields.io/badge/Hadoop-yellow)
-![PySpark](https://img.shields.io/badge/PySpark-orange)
-
-### 🌐 Web / MERN Stack
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express-black)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-grey)
-![Linux](https://img.shields.io/badge/Linux-yellow)
-![AWS](https://img.shields.io/badge/AWS-orange)
+| Category | Skills |
+|---------|--------|
+| 💻 Languages | ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![C](https://img.shields.io/badge/C-grey) |
+| 📚 Libraries | ![Pandas](https://img.shields.io/badge/Pandas-blue) ![NumPy](https://img.shields.io/badge/NumPy-lightgrey) |
+| 🗄️ Databases | ![SQL](https://img.shields.io/badge/SQL-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![MySQL](https://img.shields.io/badge/MySQL-lightblue) |
+| ⚙️ Data Engineering | ![ETL](https://img.shields.io/badge/ETL-Pipelines-green) ![Processing](https://img.shields.io/badge/Data-Processing-yellow) ![Warehouse](https://img.shields.io/badge/Data-Warehousing-orange) ![EDA](https://img.shields.io/badge/EDA-blue) |
+| 📊 Big Data | ![Hadoop](https://img.shields.io/badge/Hadoop-yellow) ![PySpark](https://img.shields.io/badge/PySpark-orange) |
+| 🌐 MERN Stack | ![React](https://img.shields.io/badge/React-blue) ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-black) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) |
+| 🛠️ Tools | ![Git](https://img.shields.io/badge/Git-black) ![GitHub](https://img.shields.io/badge/GitHub-grey) ![Linux](https://img.shields.io/badge/Linux-yellow) ![AWS](https://img.shields.io/badge/AWS-orange) |
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Projects
 
-🔹 **Multi Source Unified System**  
-- Collects data from multiple sources  
-- Processes & unifies into a single pipeline  
-
-🔹 **AI Job Matcher**  
-- Matches jobs with resume using AI  
-- Suggests missing skills & improvements  
-
-🔹 **More Projects Coming Soon...**  
-- Focus: Data Pipelines & Real-Time Systems  
+| Project Name | Live Demo | Repository | Tech Stack |
+|-------------|----------|-----------|------------|
+| Multi Source Unified System | Coming Soon | https://github.com/jagadish-4125/project1 | Python, ETL, APIs |
+| AI Job Matcher | Coming Soon | https://github.com/jagadish-4125/project2 | Python, AI, NLP |
+| Upcoming Projects | - | - | Data Engineering |
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagadish-4125&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadish-4125&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadish-4125&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagadish-muddangula-0b38532bb">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:jagadeeshm572@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-## 💡 Philosophy
-
-> "No shortcuts. Build real skills. Stay consistent."
-
----
-
-<p align="center">
-  🔥 Building in public | 🚀 Future Data Engineer
+🔥 Building in silence. Let the results make noise.
 </p>
