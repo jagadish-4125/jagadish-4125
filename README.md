@@ -1,8 +1,5 @@
-# Hi 👋, I'm Jagadish
-
-🚀 Aspiring Data Engineer  
-📊 Passionate about Data, AI & Automation  
-🧠 Currently learning Python, SQL, Data Engineering  
+<h1 align="center">Hi 👋, I'm Jagadish</h1>
+<h3 align="center">Future Data Engineer | Building Real Skills 🚀</h3>
 
 ---
 
