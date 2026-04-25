@@ -33,7 +33,7 @@
 
 ---
 
-## 🧬 &nbsp;`whoami`
+## 🧬 &nbsp;`who am i`
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding"/>
 
