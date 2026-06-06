@@ -212,7 +212,7 @@ class Jagadish:
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/project2)
+[![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/AI-Job-Intelligence)
 ![Status](https://img.shields.io/badge/🚧_Coming_Soon-F59E0B?style=for-the-badge)
 
 </div>
