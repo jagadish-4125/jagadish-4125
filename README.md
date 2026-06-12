@@ -256,6 +256,27 @@ class Jagadish:
 
 </div>
 
+<h3 align="center">🏗️ SQL Data Warehouse</h3>
+
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-8B5CF6?style=flat-square)
+![Data Warehouse](https://img.shields.io/badge/-Data_Warehouse-F59E0B?style=flat-square)
+![Analytics](https://img.shields.io/badge/-Analytics-10B981?style=flat-square)
+
+</div>
+
+> Designed and implemented a modern Data Warehouse in SQL Server using Medallion Architecture (Bronze, Silver, Gold). Built end-to-end ETL pipelines, transformed raw source data into analytics-ready datasets, and implemented dimensional models with Fact and Dimension tables for reporting and business insights.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/sql-data-warehouse)
+
+![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 📊 &nbsp;GitHub Analytics
