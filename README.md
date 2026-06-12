@@ -252,8 +252,6 @@ class Jagadish:
 
 <br/>
 
-> 🔭 &nbsp;_More projects are being forged in silence — follow to stay updated_
-
 </div>
 
 <h3 align="center">🏗️ SQL Data Warehouse</h3>
@@ -276,6 +274,8 @@ class Jagadish:
 ![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=for-the-badge)
 
 </div>
+
+> 🔭 &nbsp;_More projects are being forged in silence — follow to stay updated_
 
 ---
 
