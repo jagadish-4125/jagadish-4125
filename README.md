@@ -72,8 +72,13 @@ class Jagadish:
     email      = "jagadeeshm572@gmail.com"
     target     = "Data Engineer Role by March 2027 🎯"
 
+    built_projects = [
+        "🏗️ Multi-Source Unified Data Engine",
+        "📊 Data Warehouse Implementation",
+        "₿ Crypto Market ETL Pipeline",
+    ]
+
     currently_building = [
-        "🔗 Multi-Source Unified Data System",
         "🤖 AI-Powered Job Intelligence Platform",
     ]
 
@@ -141,57 +146,67 @@ class Jagadish:
 
 ---
 
-## ⚡ &nbsp;Tech Arsenal
+## ⚡  Tech Arsenal
 
 <div align="center">
 
-### 🐍 &nbsp;Core Languages
+### 🐍  Core Languages
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=306998)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
-### 📊 &nbsp;Data Engineering & Big Data
+### 🚀  Data Engineering Stack
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-8B5CF6?style=for-the-badge&logo=apache&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-F59E0B?style=for-the-badge&logo=databricks&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA_%26_Analysis-10B981?style=for-the-badge&logo=jupyter&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-8B5CF6?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-14B8A6?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-2563EB?style=for-the-badge)
+![Data Integration](https://img.shields.io/badge/Data_Integration-7C3AED?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-F59E0B?style=for-the-badge\&logo=databricks\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA_%26_Analysis-10B981?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
-### 📚 &nbsp;Libraries
+### 📊  Big Data & Processing
 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
 
-### 🗄️ &nbsp;Databases
+### 📚  Libraries
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2D3748?style=for-the-badge)
 
-### 🌐 &nbsp;Web & Frameworks
+### 🗄️  Databases
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### ☁️ &nbsp;Cloud, DevOps & Tools
+### 🌐  Web & Frameworks
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### ☁️  Cloud, DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 </div>
+
 
 ---
 
@@ -254,6 +269,7 @@ class Jagadish:
 
 </div>
 
+<td width="50%" valign="top">
 <h3 align="center">🏗️ SQL Data Warehouse</h3>
 
 <div align="center">
@@ -274,6 +290,32 @@ class Jagadish:
 ![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=for-the-badge)
 
 </div>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">₿ Crypto Market ETL Pipeline</h3>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL_Pipeline-10B981?style=flat-square)
+![API](https://img.shields.io/badge/-REST_API-FF6B35?style=flat-square)
+
+</div>
+
+> A production-style **ETL pipeline** that automatically extracts real-time cryptocurrency market data from external APIs, transforms and validates the dataset using Python & Pandas, and loads structured data into PostgreSQL for analytics and historical tracking. Built to demonstrate core Data Engineering concepts including data ingestion, transformation, storage, and pipeline reliability.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/crypto-etl-pipeline)
+![Status](https://img.shields.io/badge/✅_Completed-22C55E?style=for-the-badge)
+
+</div>
+
+</td>
 
 > 🔭 &nbsp;_More projects are being forged in silence — follow to stay updated_
 
