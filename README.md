@@ -269,19 +269,22 @@ class Jagadish:
 
 </div>
 
+<table>
+<tr>
 <td width="50%" valign="top">
+
 <h3 align="center">🏗️ SQL Data Warehouse</h3>
 
 <div align="center">
 
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
 ![ETL](https://img.shields.io/badge/-ETL-8B5CF6?style=flat-square)
 ![Data Warehouse](https://img.shields.io/badge/-Data_Warehouse-F59E0B?style=flat-square)
 ![Analytics](https://img.shields.io/badge/-Analytics-10B981?style=flat-square)
 
 </div>
 
-> Designed and implemented a modern Data Warehouse in SQL Server using Medallion Architecture (Bronze, Silver, Gold). Built end-to-end ETL pipelines, transformed raw source data into analytics-ready datasets, and implemented dimensional models with Fact and Dimension tables for reporting and business insights.
+> Designed and implemented a modern Data Warehouse using Medallion Architecture (**Bronze, Silver, Gold**). Built end-to-end ETL pipelines, transformed raw source data into analytics-ready datasets, and implemented dimensional models with Fact and Dimension tables for reporting and business intelligence.
 
 <div align="center">
 
@@ -290,6 +293,7 @@ class Jagadish:
 ![Status](https://img.shields.io/badge/✅_Completed-22c55e?style=for-the-badge)
 
 </div>
+
 </td>
 
 <td width="50%" valign="top">
@@ -302,20 +306,23 @@ class Jagadish:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![ETL](https://img.shields.io/badge/-ETL_Pipeline-10B981?style=flat-square)
-![API](https://img.shields.io/badge/-REST_API-FF6B35?style=flat-square)
+![REST API](https://img.shields.io/badge/-REST_API-FF6B35?style=flat-square)
 
 </div>
 
-> A production-style **ETL pipeline** that automatically extracts real-time cryptocurrency market data from external APIs, transforms and validates the dataset using Python & Pandas, and loads structured data into PostgreSQL for analytics and historical tracking. Built to demonstrate core Data Engineering concepts including data ingestion, transformation, storage, and pipeline reliability.
+> A production-style **ETL pipeline** that extracts real-time cryptocurrency market data from external APIs, transforms and validates datasets using Python & Pandas, and loads structured data into PostgreSQL for analytics and historical tracking. Demonstrates practical Data Engineering workflows from ingestion to storage.
 
 <div align="center">
 
 [![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/crypto-etl-pipeline)
+
 ![Status](https://img.shields.io/badge/✅_Completed-22C55E?style=for-the-badge)
 
 </div>
 
 </td>
+</tr>
+</table>
 
 > 🔭 &nbsp;_More projects are being forged in silence — follow to stay updated_
 
