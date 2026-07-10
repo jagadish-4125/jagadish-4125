@@ -76,9 +76,11 @@ class Jagadish:
         "🏗️ Multi-Source Unified Data Engine",
         "📊 Data Warehouse Implementation",
         "₿ Crypto Market ETL Pipeline",
+        "📊 Retail ETL Pipeline",
     ]
 
     currently_building = [
+        "📊 Retail ETL Pipeline(production level)",
         "🤖 AI-Powered Job Intelligence Platform",
     ]
 
@@ -138,6 +140,7 @@ class Jagadish:
 |:----------------|:---------|:---------|
 | ![HackerRank](https://img.shields.io/badge/SQL_Basic-00EA64?style=flat-square&logo=hackerrank&logoColor=black) SQL Basic | HackerRank | ✅ Earned |
 | ![HackerRank](https://img.shields.io/badge/SQL_Intermediate-00EA64?style=flat-square&logo=hackerrank&logoColor=black) SQL Intermediate | HackerRank | ✅ Earned |
+| ![HackerRank](https://img.shields.io/badge/SQL_Advanced-00EA64?style=flat-square&logo=hackerrank&logoColor=black) SQL Advanced | HackerRank | ✅ Earned |
 | ![Databricks](https://img.shields.io/badge/Databricks_Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white) Databricks Fundamentals | Databricks | ✅ Accredited |
 | ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) Cloud Practitioner | AWS | 🔜 In Progress |
 | ![Google](https://img.shields.io/badge/Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white) Data Analytics | Google / Coursera | 🔜 In Progress |
@@ -323,6 +326,29 @@ class Jagadish:
 </td>
 </tr>
 </table>
+
+<h3 align="center">🛒 Retail ETL Pipeline</h3>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL_Pipeline-10B981?style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![CSV](https://img.shields.io/badge/-CSV-22C55E?style=flat-square)
+
+</div>
+
+> A comprehensive **Retail Data Engineering Pipeline** that ingests data from multiple sources including **CSV, JSON, and API datasets**, performs cleaning, validation, and transformation using **Python & Pandas**, and loads structured data into **PostgreSQL** following a **Bronze → Silver → Gold (Medallion Architecture)** approach for analytics and reporting.
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/🔗_View_Repository-0891b2?style=for-the-badge)](https://github.com/jagadish-4125/Retail-ETL-Pipeline)
+
+![Status](https://img.shields.io/badge/🚧_In_Progress-F59E0B?style=for-the-badge)
+
+</div>
 
 > 🔭 &nbsp;_More projects are being forged in silence — follow to stay updated_
 
